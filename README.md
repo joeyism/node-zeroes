@@ -1,15 +1,15 @@
-# zeroes
+# 0s
 A simple tool to create an array with only 0's
 
 ## Installation
 To install, run
 
-    $ npm install --save zeroes
+    $ npm install --save 0s
 
 ## Usage
 To use, require it first by
 
-    var zeroes = require("zeroes");
+    var zeroes = require("0s");
 
 Then input the array length that you want
 
